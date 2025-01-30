@@ -20,13 +20,10 @@ The application provides an engaging environment where users can **navigate the 
 ## Atrium Theme  
 The **atrium theme** is based on a **Monster Game Stop**, a game store with a monster-inspired aesthetic. Large **monster statues** symbolize the store’s focus on **fantasy and horror games**, creating a visually captivating environment for players.
 
-## GitHub Repository  
-[**Click here to access the full source code**](https://github.com/your-github-username/Enhanced-Kiosk-VR)
-
-###  Build Instructions  
+##  Build Instructions  
 1. **Clone the repository**:  
    ```bash
-   git clone https://github.com/your-github-username/Enhanced-Kiosk-VR.git
+   git clone https://github.com/Sengeki1/Enhanced_kiosk_VR.git
    ```  
 2. **Open the project in Unity** (Version **202X.X.X**, compatible with **Meta Quest**).  
 3. **Ensure VRTK and XR Interaction Toolkit** are installed.  
@@ -56,8 +53,17 @@ Here are the sources for assets **not created from scratch**:
 ## Screenshots  
 _The following images show the application running in VR with the frame rate overlay:_  
 
-![Screenshot 1](./screenshots/screenshot1.jpg)  
-![Screenshot 2](./screenshots/screenshot2.jpg)  
+<p align="center">
+   <img src="https://github.com/user-attachments/assets/9923ce60-d648-41e5-9ac1-865f84e9c28e">
+</p>
+
+<p align="center">
+   <img src="https://github.com/user-attachments/assets/f8af7ee0-af11-42bd-b0c3-c69d97c63d56">
+</p>
+
+<p align="center">
+   <img src="https://github.com/user-attachments/assets/4b3f1f3f-40bb-4bed-aa75-83a902e8237e">
+</p>
 
 **Frame Rate Observations:**  
 - **Idle state:** Stable at **72-90 FPS**.  
@@ -65,7 +71,7 @@ _The following images show the application running in VR with the frame rate ove
 - **High-interaction zones (kiosks, grabbing objects):** Temporary dips to **55 FPS**.  
 
 ## Project Showcase Video  
-[**Watch the 5-minute demo here**](https://youtu.be/your-video-link)  
+[**Watch the demo here**](https://youtu.be/your-video-link)  
 
 ## Future Applications of VR in Pre-Construction Visualization  
 VR technology like **Enhanced Kiosk VR** could be highly beneficial for **architectural visualization and pre-construction experiences**. Imagine:
