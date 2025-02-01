@@ -71,7 +71,7 @@ _The following images show the application running in VR with the frame rate ove
 - **High-interaction zones (kiosks, grabbing objects):** Temporary dips to **55 FPS**.  
 
 ## Project Showcase Video  
-[**Watch the demo here**](https://youtu.be/your-video-link)  
+[**Watch the demo here**](https://www.youtube.com/watch?v=c4kl9MWXlEs&ab_channel=gamersengeki)  
 
 ## Future Applications of VR in Pre-Construction Visualization  
 VR technology like **Enhanced Kiosk VR** could be highly beneficial for **architectural visualization and pre-construction experiences**. Imagine:
